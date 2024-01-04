@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book Review</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="send_code">We will send you an email for code verification</string>
+    <string name="sign_up">Doesn\'t have an account? Sign up now!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="insert_code_otp">Insert the code here</string>
+    <string name="send_otp_email">Send an email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="book_cover">Book Cover</string>
+</resources>

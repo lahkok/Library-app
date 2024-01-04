@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TugasPresentasi" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TugasPresentasi" parent="Theme.AppCompat.Light.NoActionBar" />
+    <style name="NavigationTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:layout_marginBottom">2.5dp</item>
+    </style>
+</resources>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_star"
+            android:title="Favorite" />
+
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_notifications"
+            android:title="Notifications" />
+
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_setting"
+            android:title="Setting" />
+
+    </group>
+
+    <item
+        android:id="@+id/separator"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separatorrr"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator2"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator3"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator4"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator5"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator6"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator7"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator8"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator9"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator10"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator11"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator12"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator13"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator14"
+        android:title=""
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/separator15"
+        android:title=""
+        android:enabled="false" />
+
+    <group
+        android:id="@+id/group_logout"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout"
+            app:itemTextColor="@color/logoutButtonBackground"
+            android:icon="@drawable/ic_logout" />
+    </group>
+</menu>
