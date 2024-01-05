@@ -102,7 +102,7 @@ public class HomeFragment extends Fragment {
         bookViewModel = new ViewModelProvider(this).get(BookViewModel.class);
 
         bookAdapter = new BookAdapter(new ArrayList<>(), bookViewModel);
-        bookAdapter.setMaxItemCount(9);
+//        bookAdapter.setMaxItemCount(9);
         recyclerView.setLayoutManager(new GridLayoutManager(getActivity(), 3));
         recyclerView.setAdapter(bookAdapter);
 
